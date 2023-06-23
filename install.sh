@@ -1,2 +1,0 @@
-brew install ffmpeg aria2
-pip3 install ffmpeg-normalize
